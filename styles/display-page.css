@@ -1,0 +1,35 @@
+main {
+  padding: 30px;
+}
+div {
+  border:1px solid black;
+  box-sizing: border-box;
+}
+		.left {
+			float: left;
+			width: 50%;
+      height: 200px;
+			background-color: green;
+		}
+		.right {
+      height: 200px;
+			background-color: blue;
+		}
+.inner {
+  height: 300px;
+  width: 33.33%;
+  display: inline-block;
+  font-size: 0;
+}
+
+.inner-one {
+   background-color: grey;
+}
+
+.inner-two {
+  background-color:black;
+}
+
+.inner-three {
+  background-color: orange;
+}
